@@ -1,0 +1,11 @@
+Ejemplo de una agenda que tiene las siguientes funciones:
+
+1. Ingresar Contactos
+2. Mostrar Contactos
+3. Buscar Contactos
+4. Eliminar Contactos
+5. Actualizar Contactos
+
+Se usa un archivo binario (lectura y escritura)
+
+Compilado con MinGW en entorno Windows
